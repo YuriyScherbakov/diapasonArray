@@ -1,0 +1,5 @@
+C:\Users\yuriy\Desktop\DiapasonArray\DiapassonArray.BL\bin\Debug\DiapassonArray.BL.dll
+C:\Users\yuriy\Desktop\DiapasonArray\DiapassonArray.BL\bin\Debug\DiapassonArray.BL.pdb
+C:\Users\yuriy\Desktop\DiapasonArray\DiapassonArray.BL\obj\Debug\DiapassonArray.BL.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\DiapasonArray\DiapassonArray.BL\obj\Debug\DiapassonArray.BL.dll
+C:\Users\yuriy\Desktop\DiapasonArray\DiapassonArray.BL\obj\Debug\DiapassonArray.BL.pdb

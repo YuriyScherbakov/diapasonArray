@@ -1,0 +1,9 @@
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\obj\Debug\DiapasonArray.csprojAssemblyReference.cache
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\bin\Debug\DiapasonArray.exe.config
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\bin\Debug\DiapasonArray.exe
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\bin\Debug\DiapasonArray.pdb
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\obj\Debug\DiapasonArray.exe
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\obj\Debug\DiapasonArray.pdb
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\bin\Debug\DiapassonArray.BL.dll
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\bin\Debug\DiapassonArray.BL.pdb
+C:\Users\yuriy\Desktop\DiapasonArray\DiapasonArray\obj\Debug\DiapasonArray.csproj.CopyComplete
